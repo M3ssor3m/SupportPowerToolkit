@@ -4,7 +4,7 @@ Hi, if you've found this then thank you for taking the time to look at my work!
 
 I'm a novice programmer and used to work within the IT support industry.
 
-I kept seeing the same issues coming into the helpdesk and wanted away to stop them reoccurring. 
+I kept seeing the same issues coming into the helpdesk and wanted a way to stop them reoccurring. 
 
 A few month ago I decided to attempt to learn PowerShell and started piecing my scripts together into this master script. 
 
