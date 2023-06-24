@@ -1,4 +1,4 @@
-# Version: 1.0.2
+# Version: 0.1.2
 
 # Each function hold its own variables and uses the global variables, it must try to run its commands based on OS query and whether or not its a remote machine. Catch any errors then continue onto the next task.
 
